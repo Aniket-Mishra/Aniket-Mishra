@@ -6,13 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Deploying ML models and analytics reports
-- 🌱 I’m currently learning Statistics 
-- 👯 I’m looking to collaborate on everything related to programming and analytics.
-- 🤔 I’m looking for help with Data Science
+- 🌱 I’m in love with the stories that data tell us. 
 - 💬 Ask me about anything, really.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniket97/)  [Email](mishra1997aniket@gmail.com)
-- ⚡ Fun fact: I preper paperbacks over kindle.
+- :earth_asia: I'm trying to learn all I can about the world and help everyone grow.
+- 📫 How to reach me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/aniket97/) 
+  - :email: [Email](mishra1997aniket@gmail.com)
 
 
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
