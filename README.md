@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/aniket97/) 
   - :email: [Email](mishra1997aniket@gmail.com)
-  - :link: [Website](aniketm.tech)
+  - :link: [Website](https://aniketm.tech)
 
 
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
