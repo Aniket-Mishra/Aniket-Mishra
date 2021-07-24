@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m in love with the stories that data tell us. 
+- 🌱 I’m in love with the stories that data tell us.
+- I build things to make data go from one place to another. 
 - :hammer_and_wrench: I build pretty web stuff for fun.
 - :earth_asia: I'm trying to learn all I can about the world and help everyone grow.
 - 📫 How to find me: 
