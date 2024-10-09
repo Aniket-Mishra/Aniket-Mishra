@@ -15,6 +15,6 @@ Here are some ideas to get you started:
   - :email: [Email](mishra1997aniket@gmail.com)
   - :link: [Website](https://aniket-mishra.github.io)
 
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&exclude_repo=DemoMobileDealerWebsite&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
