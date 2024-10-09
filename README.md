@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&exclude_repo=DemoMobileDealerWebsite&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=50&show_owner=true&repo=statistical-model-implementer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/statistical-model-implementer))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=75&show_owner=true&repo=statistical-model-implementer)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/statistical-model-implementer))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=50&show_owner=true&repo=Statistics_with_Python_Specialization)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/statistical-model-implementer](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=75&show_owner=true&repo=Statistics_with_Python_Specialization)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/statistical-model-implementer](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=50&show_owner=true&repo=playing-with-data)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/statistical-model-implementer](https://github.com/Aniket-Mishra/playing-with-data)))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=75&show_owner=true&repo=playing-with-data)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/statistical-model-implementer](https://github.com/Aniket-Mishra/playing-with-data)))
