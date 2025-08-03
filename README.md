@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Statistics_with_Python_Specialization)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=playing-with-data)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/dotfiles](https://github.com/Aniket-Mishra/dotfiles)))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=dotfiles)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/Aniket-Mishra/dotfiles](https://github.com/Aniket-Mishra/dotfiles)))
