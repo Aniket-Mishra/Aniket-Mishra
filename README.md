@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m in love with the stories that data tell us.
-- I build things to make data go from one place to another. 
+- I'm into renewable energy, automated machine learning, optimisation, and anything that makes life easier for lazy people like me. 
 - :hammer_and_wrench: I build pretty web stuff for fun.
 - :earth_asia: I'm trying to learn all I can about the world and help everyone grow.
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/aniket97/) 
-  - :email: [Email](mishra1997aniket@gmail.com)
+  - :email: mishra1997aniket@gmail.com
   - :link: [Website](https://aniket-mishra.github.io)
 
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
