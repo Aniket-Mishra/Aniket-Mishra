@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Technologies & Tools  
+### Technologies & Tools  
 
 **Languages & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aniket-Mishra&theme=radical&v=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aniket-Mishra&theme=radical&cache_seconds=86400&v=4)](https://git.io/streak-stats)
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_rank=false&v=3)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&theme=radical&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS,PHP,Hack&exclude_repo=ubertech19,dotndash,ParallaxWebsite,Moonbow&v=3)](https://github.com/anuraghazra/github-readme-stats)
