@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats-beta-indol-59.vercel.app?user=Aniket-Mishra&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-beta-indol-59.vercel.app?user=Aniket-Mishra&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Mishra&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_rank=false&v=3)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&theme=radical&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS,PHP,Hack&exclude_repo=ubertech19,dotndash,ParallaxWebsite,Moonbow&v=3)](https://github.com/anuraghazra/github-readme-stats)
