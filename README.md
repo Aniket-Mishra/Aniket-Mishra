@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&exclude_repo=DemoMobileDealerWebsite&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&theme=radical&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Mishra&exclude_repo=DemoMobileDealerWebsite&theme=radical&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Statistics_with_Python_Specialization)](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)
