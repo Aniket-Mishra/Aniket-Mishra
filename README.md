@@ -51,17 +51,17 @@ Here are some ideas to get you started:
 
 ---
 
-[![Readme Card](https://github-readme-stats-brown-six-23.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=dotfiles)](https://github.com/Aniket-Mishra/dotfiles)  
+[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=dotfiles)](https://github.com/Aniket-Mishra/dotfiles)  
 
-[![Readme Card](https://github-readme-stats-brown-six-23.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Scripts)](https://github.com/Aniket-Mishra/Scripts)
+[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Scripts)](https://github.com/Aniket-Mishra/Scripts)
 
-[![Readme Card](https://github-readme-stats-brown-six-23.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=statistical-model-implementer)](https://github.com/Aniket-Mishra/statistical-model-implementer)
+[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=statistical-model-implementer)](https://github.com/Aniket-Mishra/statistical-model-implementer)
 
-[![Readme Card](https://github-readme-stats-brown-six-23.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Statistics_with_Python_Specialization)](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)
+[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Statistics_with_Python_Specialization)](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)
 
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats-beta-indol-59.vercel.app?user=Aniket-Mishra&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Aniket's github stats](https://github-readme-stats-brown-six-23.vercel.app/api?username=Aniket-Mishra&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_rank=false&v=3)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats-brown-six-23.vercel.app/api/top-langs/?username=Aniket-Mishra&theme=radical&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS,PHP,Hack&exclude_repo=ubertech19,dotndash,ParallaxWebsite,Moonbow&v=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Aniket's github stats](https://github-readme-stats-lime-sigma.vercel.app/api?username=Aniket-Mishra&count_private=true&include_all_commits=false&show_icons=true&theme=radical&hide_rank=false&v=3)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-lime-sigma.vercel.app/api/top-langs/?username=Aniket-Mishra&theme=radical&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS,PHP,Hack&exclude_repo=ubertech19,dotndash,ParallaxWebsite,Moonbow&v=3)](https://github.com/anuraghazra/github-readme-stats)
