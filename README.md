@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### Technologies & Tools  
 
 **Languages & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=121212) ![Bash](https://img.shields.io/badge/Bash-fafafa?logo=gnu-bash&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=121212) ![Bash](https://img.shields.io/badge/Bash-fafafa?logo=gnu-bash&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Painless](https://img.shields.io/badge/Painless-005571?logo=elastic&logoColor=white)
+
 
 
 **Cloud & Hosting**  
