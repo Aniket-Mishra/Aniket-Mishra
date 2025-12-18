@@ -6,12 +6,19 @@
 Here are some ideas to get you started:
 -->
 
-**Data Scientist | Renewable Energy | AutoML & Optimization | Automation**
+**Data Scientist | AutoML & Optimization | Automation | Renewable Energy**
 
-📫 How to find me:  
+How to find me:  
 :office: [LinkedIn](https://www.linkedin.com/in/aniket97/)  
 :email: anmishraofficial@gmail.com  
 :link: [Website](https://aniket-mishra.github.io)
+
+---
+
+- I’m in love with the stories that data tells us.
+- I'm into renewable energy, automated machine learning, optimisation, and anything that makes life easier for lazy people like me. 
+- I build pretty web stuff for fun.
+- I'm trying to learn all I can about the world and help everyone grow.
 
 ---
 
@@ -43,13 +50,6 @@ Here are some ideas to get you started:
 
 **Version Control & CI/CD**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis-ci&logoColor=white)
-
----
-
-- 🌱 I’m in love with the stories that data tells us.
-- I'm into renewable energy, automated machine learning, optimisation, and anything that makes life easier for lazy people like me. 
-- :hammer_and_wrench: I build pretty web stuff for fun.
-- :earth_asia: I'm trying to learn all I can about the world and help everyone grow.
 
 ---
 
