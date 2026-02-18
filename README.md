@@ -45,16 +45,19 @@ How to find me:
 **Version Control & CI/CD**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis-ci&logoColor=white)
 
+<!--
 ---
 
-[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=dotfiles)](https://github.com/Aniket-Mishra/dotfiles)  
+[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Competitive_Sudoku_Solver_AI)](https://github.com/Aniket-Mishra/Competitive_Sudoku_Solver_AI)
+
+[![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Movie_Recommendation_and_Analysis)](https://github.com/Aniket-Mishra/Movie_Recommendation_and_Analysis)
 
 [![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Scripts)](https://github.com/Aniket-Mishra/Scripts)
 
 [![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=statistical-model-implementer)](https://github.com/Aniket-Mishra/statistical-model-implementer)
 
 [![Readme Card](https://github-readme-stats-lime-sigma.vercel.app/api/pin/?username=Aniket-Mishra&card_width=325&theme=radical&show_owner=true&repo=Statistics_with_Python_Specialization)](https://github.com/Aniket-Mishra/Statistics_with_Python_Specialization)
-
+-->
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats-beta-indol-59.vercel.app?user=Aniket-Mishra&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
